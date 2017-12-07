@@ -14,4 +14,8 @@ Based on Conti S, O’Hagan A. Bayesian emulation of complex multi-output and dy
 **The code is still under development.**
 
 ---
-### Demo result short view
+### Demo result short-view
+
+![img](https://github.com/ZhengXing-shawn/Multi-output-GP/blob/master/gif/350Tr_20Te_3nKl_05timestep_Time.gif)
+
+![img](https://github.com/ZhengXing-shawn/Multi-output-GP/blob/master/gif/350Tr_20Te_3nKl_05timesstep_UQ.gif)
