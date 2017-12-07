@@ -15,7 +15,13 @@ Based on Conti S, O’Hagan A. Bayesian emulation of complex multi-output and dy
 
 ---
 ### Demo result short-view
+The demo uses 350 sets of training data to optimise parameter r, then predicts the test data and compares the result with the origin data in both spatial-temporal map and uncertainty quantification(UQ) map.
 
-![img](https://github.com/ZhengXing-shawn/Multi-output-GP/blob/master/gif/350Tr_20Te_3nKl_05timestep_Time.gif)
+![avatar](https://github.com/ZhengXing-shawn/Multi-output-GP/blob/master/gif/350Tr_20Te_3nKl_05timestep_Time.gif)
+- Dashed line represents the prediction results.
+- Solid line represents the origin data.
 
-![img](https://github.com/ZhengXing-shawn/Multi-output-GP/blob/master/gif/350Tr_20Te_3nKl_05timesstep_UQ.gif)
+
+![avatar](https://github.com/ZhengXing-shawn/Multi-output-GP/blob/master/gif/350Tr_20Te_3nKl_05timesstep_UQ.gif)
+- Dashed line and blue line represent the prediction results.
+- Solid line and yellow line represent the origin data.
